@@ -1,0 +1,18 @@
+{
+  "name": "bootstrap-theme-tkw",
+  "version": "0.0.0",
+  "authors": [
+    "Muresan Ionut <muresan.ionut95@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5"
+  }
+}
