@@ -5,15 +5,22 @@ $text-color:            #42464f;
 $headings-color:          $tkw-color;
 
 // nav bar
-
+// Default navbar
 $navbar-height:                    60px !default;
 $navbar-border-radius:             0px !default;
 $navbar-default-color:             #fff !default;
 $navbar-default-bg:                rgba(255, 255, 255, 0.9);
 $navbar-default-border:            darken($navbar-default-bg, 6.5%) !default;
 
-//=== Inverted navbar
-// Reset inverted navbar basics
+// Inverted navbar
 $navbar-inverse-color:             lighten(#777, 15%) !default;
 $navbar-inverse-bg:                rgba(34, 34, 34, 0.9);
 $navbar-inverse-border:            darken($navbar-inverse-bg, 10%) !default;
+
+$jumbotron-heading-color:        $tkw-color;
+
+//== Carousel
+$carousel-control-color:                      $tkw-color;
+
+$carousel-indicator-active-bg:                $tkw-color;
+$carousel-indicator-border-color:             $tkw-color;
