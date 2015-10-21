@@ -1,10 +1,14 @@
+// My variables
 $tkw-color: #eb3062;
+
+// Bootstrap variables
+$brand-primary:         $tkw-color  ;
 
 $text-color:            #42464f;
 
 $headings-color:          $tkw-color;
 
-// nav bar
+// NAV-BAR
 // Default navbar
 $navbar-height:                    60px !default;
 $navbar-border-radius:             0px !default;
